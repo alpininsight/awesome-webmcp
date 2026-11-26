@@ -1,0 +1,28 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Awesome WebMCP",
+  "description": "A curated list of articles, tools, demos, tutorials and community resources related to the WebMCP proposal.",
+  "excludeFolders": [
+    "archive",
+    "archived",
+    "old",
+    "docs/old",
+    "deprecated",
+    "legacy",
+    "previous",
+    "outdated",
+    "superseded",
+    "_snaps",
+    "benchmark",
+    "benchmarks",
+    "benches",
+    "node_modules",
+    "dist",
+    "build",
+    "coverage"
+  ],
+  "rules": [
+    "Treat this repository as a curated list of WebMCP resources; the canonical catalog is the root README.",
+    "Add new entries to the appropriate section of README.md and follow CONTRIBUTING.md."
+  ]
+}
